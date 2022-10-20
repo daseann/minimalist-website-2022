@@ -182,4 +182,7 @@ nav svg {
   .about h2 {
     text-align: start;
   }
+  img.rounded-corners {
+    border-radius: 25px;
+  }
 }
